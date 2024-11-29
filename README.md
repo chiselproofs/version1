@@ -1,3 +1,3 @@
 # version1
 
-First versions of Chisel proofs
+First versions of Chisel proofs (support for paper submission).
